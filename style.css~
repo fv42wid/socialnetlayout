@@ -1,0 +1,25 @@
+body {
+    background-color: #4099FF;
+}
+
+.main-header-row {
+    margin-top: 100px;
+}
+
+.main-header-div {
+    background-color: #CCC;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 100px;
+}
+
+.top-body-div {
+    background-color: #FFF;
+    padding-top: 35px;
+}
+
+.main-profile-img {
+    padding-top: 30px;
+    z-index: 20;
+    position: relative;
+}
